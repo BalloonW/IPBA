@@ -1,0 +1,708 @@
+Test nr: 1
+Image name: image_50_kb.jpg
+1.575803279876709
+
+Image name: image_100_kb.jpg
+4.296351432800293
+
+Test nr: 2
+Image name: image_50_kb.jpg
+1.4035110473632812
+
+Image name: image_100_kb.jpg
+4.4555323123931885
+
+Test nr: 3
+Image name: image_50_kb.jpg
+1.4141860008239746
+
+Image name: image_100_kb.jpg
+4.275432586669922
+
+Test nr: 4
+Image name: image_50_kb.jpg
+1.207322597503662
+
+Image name: image_100_kb.jpg
+4.428062200546265
+
+Test nr: 5
+Image name: image_50_kb.jpg
+1.098381757736206
+
+Image name: image_100_kb.jpg
+4.756202936172485
+
+Test nr: 6
+Image name: image_50_kb.jpg
+1.1595144271850586
+
+Image name: image_100_kb.jpg
+4.469407558441162
+
+Test nr: 7
+Image name: image_50_kb.jpg
+1.0509116649627686
+
+Image name: image_100_kb.jpg
+4.039496421813965
+
+Test nr: 8
+Image name: image_50_kb.jpg
+1.082364797592163
+
+Image name: image_100_kb.jpg
+4.1945929527282715
+
+Test nr: 9
+Image name: image_50_kb.jpg
+1.1591699123382568
+
+Image name: image_100_kb.jpg
+4.206394195556641
+
+Test nr: 10
+Image name: image_50_kb.jpg
+1.1975634098052979
+
+Image name: image_100_kb.jpg
+4.086454629898071
+
+Test nr: 11
+Image name: image_50_kb.jpg
+1.0619947910308838
+
+Image name: image_100_kb.jpg
+4.110426187515259
+
+Test nr: 12
+Image name: image_50_kb.jpg
+1.378047227859497
+
+Image name: image_100_kb.jpg
+4.411202669143677
+
+Test nr: 13
+Image name: image_50_kb.jpg
+1.23760986328125
+
+Image name: image_100_kb.jpg
+4.516503572463989
+
+Test nr: 14
+Image name: image_50_kb.jpg
+1.2673139572143555
+
+Image name: image_100_kb.jpg
+4.784334421157837
+
+Test nr: 15
+Image name: image_50_kb.jpg
+1.3348948955535889
+
+Image name: image_100_kb.jpg
+4.072614908218384
+
+Test nr: 16
+Image name: image_50_kb.jpg
+1.1031451225280762
+
+Image name: image_100_kb.jpg
+4.313700914382935
+
+Test nr: 17
+Image name: image_50_kb.jpg
+1.092869758605957
+
+Image name: image_100_kb.jpg
+3.984714984893799
+
+Test nr: 18
+Image name: image_50_kb.jpg
+1.0374205112457275
+
+Image name: image_100_kb.jpg
+4.000692367553711
+
+Test nr: 19
+Image name: image_50_kb.jpg
+1.162543773651123
+
+Image name: image_100_kb.jpg
+4.096888542175293
+
+Test nr: 20
+Image name: image_50_kb.jpg
+1.087376594543457
+
+Image name: image_100_kb.jpg
+4.0626702308654785
+
+Test nr: 21
+Image name: image_50_kb.jpg
+1.2026138305664062
+
+Image name: image_100_kb.jpg
+4.222290754318237
+
+Test nr: 22
+Image name: image_50_kb.jpg
+1.0622422695159912
+
+Image name: image_100_kb.jpg
+4.304220676422119
+
+Test nr: 23
+Image name: image_50_kb.jpg
+1.2822589874267578
+
+Image name: image_100_kb.jpg
+4.201743841171265
+
+Test nr: 24
+Image name: image_50_kb.jpg
+1.2329645156860352
+
+Image name: image_100_kb.jpg
+4.2960286140441895
+
+Test nr: 25
+Image name: image_50_kb.jpg
+1.2952513694763184
+
+Image name: image_100_kb.jpg
+4.467490196228027
+
+Test nr: 26
+Image name: image_50_kb.jpg
+1.2532970905303955
+
+Image name: image_100_kb.jpg
+4.30832576751709
+
+Test nr: 27
+Image name: image_50_kb.jpg
+1.0697963237762451
+
+Image name: image_100_kb.jpg
+4.195651531219482
+
+Test nr: 28
+Image name: image_50_kb.jpg
+1.1942391395568848
+
+Image name: image_100_kb.jpg
+4.115007400512695
+
+Test nr: 29
+Image name: image_50_kb.jpg
+1.2189369201660156
+
+Image name: image_100_kb.jpg
+4.487069129943848
+
+Test nr: 30
+Image name: image_50_kb.jpg
+1.1690928936004639
+
+Image name: image_100_kb.jpg
+4.278876543045044
+
+Test nr: 31
+Image name: image_50_kb.jpg
+1.1298151016235352
+
+Image name: image_100_kb.jpg
+4.205317735671997
+
+Test nr: 32
+Image name: image_50_kb.jpg
+1.2140154838562012
+
+Image name: image_100_kb.jpg
+4.111551761627197
+
+Test nr: 33
+Image name: image_50_kb.jpg
+1.4907910823822021
+
+Image name: image_100_kb.jpg
+4.198620796203613
+
+Test nr: 34
+Image name: image_50_kb.jpg
+1.2593846321105957
+
+Image name: image_100_kb.jpg
+4.358485221862793
+
+Test nr: 35
+Image name: image_50_kb.jpg
+1.2829854488372803
+
+Image name: image_100_kb.jpg
+4.5730555057525635
+
+Test nr: 36
+Image name: image_50_kb.jpg
+1.3792040348052979
+
+Image name: image_100_kb.jpg
+4.281764984130859
+
+Test nr: 37
+Image name: image_50_kb.jpg
+1.399010181427002
+
+Image name: image_100_kb.jpg
+4.352472305297852
+
+Test nr: 38
+Image name: image_50_kb.jpg
+1.138538122177124
+
+Image name: image_100_kb.jpg
+4.308302879333496
+
+Test nr: 39
+Image name: image_50_kb.jpg
+1.0976653099060059
+
+Image name: image_100_kb.jpg
+4.201984882354736
+
+Test nr: 40
+Image name: image_50_kb.jpg
+1.2170953750610352
+
+Image name: image_100_kb.jpg
+4.120808362960815
+
+Test nr: 41
+Image name: image_50_kb.jpg
+1.065497875213623
+
+Image name: image_100_kb.jpg
+4.086611986160278
+
+Test nr: 42
+Image name: image_50_kb.jpg
+1.0699405670166016
+
+Image name: image_100_kb.jpg
+4.154651403427124
+
+Test nr: 43
+Image name: image_50_kb.jpg
+1.0974109172821045
+
+Image name: image_100_kb.jpg
+4.460067987442017
+
+Test nr: 44
+Image name: image_50_kb.jpg
+1.2984085083007812
+
+Image name: image_100_kb.jpg
+4.107141017913818
+
+Test nr: 45
+Image name: image_50_kb.jpg
+1.2213122844696045
+
+Image name: image_100_kb.jpg
+4.310343265533447
+
+Test nr: 46
+Image name: image_50_kb.jpg
+1.2785696983337402
+
+Image name: image_100_kb.jpg
+4.2598631381988525
+
+Test nr: 47
+Image name: image_50_kb.jpg
+1.2491614818572998
+
+Image name: image_100_kb.jpg
+4.275193214416504
+
+Test nr: 48
+Image name: image_50_kb.jpg
+1.3249356746673584
+
+Image name: image_100_kb.jpg
+4.467553377151489
+
+Test nr: 49
+Image name: image_50_kb.jpg
+1.0319721698760986
+
+Image name: image_100_kb.jpg
+4.6021199226379395
+
+Test nr: 50
+Image name: image_50_kb.jpg
+1.0918340682983398
+
+Image name: image_100_kb.jpg
+4.073245286941528
+
+average time of gaussian filtering on 100 kb image (based on set of 50 results) is: 4.27895071029663
+average time of gaussian filtering on 50 kb image (based on set of 50 results) is: 1.2086037349700929
+
+
+
+
+Test nr: 1
+Image name: image_50_kb.jpg
+0.6308581829071045
+
+Image name: image_100_kb.jpg
+3.3209645748138428
+
+Test nr: 2
+Image name: image_50_kb.jpg
+0.6359529495239258
+
+Image name: image_100_kb.jpg
+3.4179539680480957
+
+Test nr: 3
+Image name: image_50_kb.jpg
+0.6533186435699463
+
+Image name: image_100_kb.jpg
+3.4801881313323975
+
+Test nr: 4
+Image name: image_50_kb.jpg
+0.6718149185180664
+
+Image name: image_100_kb.jpg
+3.653620719909668
+
+Test nr: 5
+Image name: image_50_kb.jpg
+0.6829142570495605
+
+Image name: image_100_kb.jpg
+3.6278252601623535
+
+Test nr: 6
+Image name: image_50_kb.jpg
+0.6776044368743896
+
+Image name: image_100_kb.jpg
+3.6705715656280518
+
+Test nr: 7
+Image name: image_50_kb.jpg
+0.6840009689331055
+
+Image name: image_100_kb.jpg
+3.499617576599121
+
+Test nr: 8
+Image name: image_50_kb.jpg
+0.7056083679199219
+
+Image name: image_100_kb.jpg
+3.621910572052002
+
+Test nr: 9
+Image name: image_50_kb.jpg
+0.6696281433105469
+
+Image name: image_100_kb.jpg
+3.704867362976074
+
+Test nr: 10
+Image name: image_50_kb.jpg
+0.6506257057189941
+
+Image name: image_100_kb.jpg
+3.523984909057617
+
+Test nr: 11
+Image name: image_50_kb.jpg
+0.6546211242675781
+
+Image name: image_100_kb.jpg
+3.740846633911133
+
+Test nr: 12
+Image name: image_50_kb.jpg
+0.7176001071929932
+
+Image name: image_100_kb.jpg
+3.553046941757202
+
+Test nr: 13
+Image name: image_50_kb.jpg
+0.6380589008331299
+
+Image name: image_100_kb.jpg
+3.6277878284454346
+
+Test nr: 14
+Image name: image_50_kb.jpg
+0.6704087257385254
+
+Image name: image_100_kb.jpg
+3.429720878601074
+
+Test nr: 15
+Image name: image_50_kb.jpg
+0.647517204284668
+
+Image name: image_100_kb.jpg
+3.4337408542633057
+
+Test nr: 16
+Image name: image_50_kb.jpg
+0.6422276496887207
+
+Image name: image_100_kb.jpg
+3.537487030029297
+
+Test nr: 17
+Image name: image_50_kb.jpg
+0.6932861804962158
+
+Image name: image_100_kb.jpg
+3.431334972381592
+
+Test nr: 18
+Image name: image_50_kb.jpg
+0.646343469619751
+
+Image name: image_100_kb.jpg
+3.5618717670440674
+
+Test nr: 19
+Image name: image_50_kb.jpg
+0.6491625308990479
+
+Image name: image_100_kb.jpg
+3.39901065826416
+
+Test nr: 20
+Image name: image_50_kb.jpg
+0.6670496463775635
+
+Image name: image_100_kb.jpg
+3.5020220279693604
+
+Test nr: 21
+Image name: image_50_kb.jpg
+0.626032829284668
+
+Image name: image_100_kb.jpg
+3.349928855895996
+
+Test nr: 22
+Image name: image_50_kb.jpg
+0.625657320022583
+
+Image name: image_100_kb.jpg
+3.38806414604187
+
+Test nr: 23
+Image name: image_50_kb.jpg
+0.6256191730499268
+
+Image name: image_100_kb.jpg
+3.270132064819336
+
+Test nr: 24
+Image name: image_50_kb.jpg
+0.6266424655914307
+
+Image name: image_100_kb.jpg
+3.4160335063934326
+
+Test nr: 25
+Image name: image_50_kb.jpg
+0.6296360492706299
+
+Image name: image_100_kb.jpg
+3.304079294204712
+
+Test nr: 26
+Image name: image_50_kb.jpg
+0.6256577968597412
+
+Image name: image_100_kb.jpg
+3.467012405395508
+
+Test nr: 27
+Image name: image_50_kb.jpg
+0.6256380081176758
+
+Image name: image_100_kb.jpg
+3.4819765090942383
+
+Test nr: 28
+Image name: image_50_kb.jpg
+0.699596643447876
+
+Image name: image_100_kb.jpg
+3.4030346870422363
+
+Test nr: 29
+Image name: image_50_kb.jpg
+0.6246392726898193
+
+Image name: image_100_kb.jpg
+3.28112530708313
+
+Test nr: 30
+Image name: image_50_kb.jpg
+0.6246438026428223
+
+Image name: image_100_kb.jpg
+3.4140264987945557
+
+Test nr: 31
+Image name: image_50_kb.jpg
+0.6286361217498779
+
+Image name: image_100_kb.jpg
+3.4040379524230957
+
+Test nr: 32
+Image name: image_50_kb.jpg
+0.70359206199646
+
+Image name: image_100_kb.jpg
+3.7618486881256104
+
+Test nr: 33
+Image name: image_50_kb.jpg
+0.6825897693634033
+
+Image name: image_100_kb.jpg
+3.441025972366333
+
+Test nr: 34
+Image name: image_50_kb.jpg
+0.643641471862793
+
+Image name: image_100_kb.jpg
+3.3990511894226074
+
+Test nr: 35
+Image name: image_50_kb.jpg
+0.6316533088684082
+
+Image name: image_100_kb.jpg
+3.36806058883667
+
+Test nr: 36
+Image name: image_50_kb.jpg
+0.63863205909729
+
+Image name: image_100_kb.jpg
+3.49100399017334
+
+Test nr: 37
+Image name: image_50_kb.jpg
+0.6286337375640869
+
+Image name: image_100_kb.jpg
+3.32208514213562
+
+Test nr: 38
+Image name: image_50_kb.jpg
+0.6266541481018066
+
+Image name: image_100_kb.jpg
+3.6029393672943115
+
+Test nr: 39
+Image name: image_50_kb.jpg
+0.6286365985870361
+
+Image name: image_100_kb.jpg
+3.4220454692840576
+
+Test nr: 40
+Image name: image_50_kb.jpg
+0.6466097831726074
+
+Image name: image_100_kb.jpg
+3.610919237136841
+
+Test nr: 41
+Image name: image_50_kb.jpg
+0.6716101169586182
+
+Image name: image_100_kb.jpg
+3.4430325031280518
+
+Test nr: 42
+Image name: image_50_kb.jpg
+0.6266372203826904
+
+Image name: image_100_kb.jpg
+3.4679901599884033
+
+Test nr: 43
+Image name: image_50_kb.jpg
+0.6616179943084717
+
+Image name: image_100_kb.jpg
+3.6179308891296387
+
+Test nr: 44
+Image name: image_50_kb.jpg
+0.6276533603668213
+
+Image name: image_100_kb.jpg
+3.3530843257904053
+
+Test nr: 45
+Image name: image_50_kb.jpg
+0.6266582012176514
+
+Image name: image_100_kb.jpg
+3.285088539123535
+
+Test nr: 46
+Image name: image_50_kb.jpg
+0.6646358966827393
+
+Image name: image_100_kb.jpg
+3.262103319168091
+
+Test nr: 47
+Image name: image_50_kb.jpg
+0.6176633834838867
+
+Image name: image_100_kb.jpg
+3.3630783557891846
+
+Test nr: 48
+Image name: image_50_kb.jpg
+0.6336362361907959
+
+Image name: image_100_kb.jpg
+3.352083444595337
+
+Test nr: 49
+Image name: image_50_kb.jpg
+0.6386308670043945
+
+Image name: image_100_kb.jpg
+3.432034492492676
+
+Test nr: 50
+Image name: image_50_kb.jpg
+0.6536073684692383
+
+Image name: image_100_kb.jpg
+3.3410868644714355
+
+average time of gaussian filtering on 100 kb image (based on set of 50 results) is: 3.465086359977722
+average time of gaussian filtering on 50 kb image (based on set of 50 results) is: 0.6500799036026002

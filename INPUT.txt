@@ -1,0 +1,2 @@
+resources\image_50_kb.jpg
+resources\image_100_kb.jpg

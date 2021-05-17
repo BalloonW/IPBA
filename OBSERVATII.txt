@@ -1,0 +1,55 @@
+GAUSSIAN FILTER BENCHMARK APP:
+
+Am executat gaussian filtering pe imagini de marime: 50Kb si 100Kb.
+
+Timpii de executie sunt salvati in fisierul OUTPUT.TXT, precum si valoare medie a timpului de executie (formata din datele
+a 50 de rulari) pentru imagini de 50Kb, respectiv de 100Kb.
+
+Imaginele filtrate se gasesc in output_images directory.
+
+_________________________________
+observatii prinvind performanta
+_________________________________
+Timpul de filtrare pentru o imagine de 50Kb este aproximativ 1 secunda, pentru una de 100Kb timpul este de aproximativ 4 secunde.
+Timpul de filtrare este direct proportional cu marimea imaginii, pentru ca gaussian filter se rezuma la imnultiri si impartiri
+pe un set de date, datele fiind pastrate in 'matricea imaginii'. Cu cat mai mare este matricea, cu atat se mareste timpul
+de executie al filtrarii. (Concluzia asta se face tinand cont ca convolutia va trece peste fiecare pixel al imaginii.)
+
+________________________________
+valoarea medie (din OUTPUT.TXT)
+________________________________
+average time of gaussian filtering on 100 kb image (based on set of 50 results) is: 4.048834810256958
+average time of gaussian filtering on 50 kb image (based on set of 50 results) is: 1.1212886667251587
+
+_______________________________
+posibile bottleneck-uri
+_______________________________
+Cele mai banale bottneck-uri ce se intalnesc in algoritmii care folosesc kernel sunt 'edge cases'.
+De exemplu, sa luam un kernel de 5X5.
+Sa zicem ca arata asa:
+1  4   7   4   1
+4  16  26  16  4
+7  26  41  26  7  X 1/273
+4  16  26  16  4
+1  4   7   4   1
+
+Valoare din mijloc este un 'mark-er' care trebuie sa se plaseze pe fiecare pixel ca sa faca un average value cu ceilalti
+pixeli din jurul lui. Ce facem in cazul in care ajungem la un 'edge', la coltul imaginii. In acest caz noi nnu putem sa
+obtinem destule informatii pentru a face average value corect pentru acel pixel si inmultim valoare corespunzatoare din
+kernel cu 0. In cazul algoritmului de gaussian kernel asta nu se simte atat de mult, pentru ca 'weight' de la colturile
+kernel-ui este mai mic (adica acele alori vor contribui mai putin la rezultatul final). Totusi, algoritmul nu este
+perfect si vom obtine o rama neagra aproape invizibila la imaginile noastre rezultate.
+
+_______________________________
+cum poate fi imbunatatit
+_______________________________
+Acest algoritm in sine reprezinta o imbunatatire de box blurring, care lua valori constante pe fiecare pozitie din kernel.
+In sine algoritmul nu prea poate fi imbunatatit, pentru ca la fiecare "imbunatatire" vom pierde ceva.
+Eu as imbunatati implementarea mea, incercand sa dau mai multi kerneli in acelasi timp (folosirea de multithreading pe
+inginereste) pe o imagine, atunci procesarea va merge mai rapid si vom castiga din timp. Dar si la imbunatatirea
+asta trebuie pusa ca si preconditie un hardware mai puternic, pe care va fi posibila procesarea acestui set mare de operatii.
+
+
+
+
+
